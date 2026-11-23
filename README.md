@@ -6,11 +6,11 @@ I enjoy working with data, building projects, and exploring new technologies to 
 ---
 
 ## 🛠️Tools & Technologies
-- 🐍 Programming: Python, C
+- 🐍 Programming: Python
 - 📊 Data Analytics & Visualization: Power BI, Excel, Matplotlib
-- 🗄️ Databases: MySQL, PostgreSQL, SQL
+- 🗄️ Databases: MySQL, PostgreSQL, SQLSever
 - 🤖 Agentic AI & AI-Powered Development: Antigravity, Lovable
-- 🧰 Development Tools: Git, GitHub, VS Code
+- 🧰 Development Tools: Git, GitHub
 - 📈 Data Science: Pandas, NumPy, Scikit-learn
 
 ---
