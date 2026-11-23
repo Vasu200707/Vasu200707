@@ -5,13 +5,13 @@ I enjoy working with data, building projects, and exploring new technologies to 
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Programming:** Python
-- **Data Analytics:** SQL, Power BI, Excel
-- **Libraries:** Pandas, NumPy, Matplotlib
-- **AI Development:** Antigravity, Lovable
-- **Tools:** Git, GitHub
+## 🛠️Tools & Technologies
+- 🐍 Programming: Python, C
+- 📊 Data Analytics & Visualization: Power BI, Excel, Matplotlib
+- 🗄️ Databases: MySQL, PostgreSQL, SQL
+- 🤖 Agentic AI & AI-Powered Development: Antigravity, Lovable
+- 🧰 Development Tools: Git, GitHub, VS Code
+- 📈 Data Science: Pandas, NumPy, Scikit-learn
 
 ---
 
