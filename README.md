@@ -19,7 +19,7 @@ I enjoy working with data, building projects, and exploring new technologies to 
 
 - [x] Automatic Data Cleaning using Python
 - [x] Restaurant Website Development
-- [ ] Retail Demand Forecasting
+- [x] Retail Demand Forecasting
 - [ ] AI-powered Application Development
 
 ---
